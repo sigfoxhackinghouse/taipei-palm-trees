@@ -1,0 +1,1 @@
+{"cpu":{"fqbn":"arduino:avr:uno","name":"Arduino/Genuino Uno","port":""},"included_libs":[{"name":"Arduino SigFox for MKRFox1200","version":"1.0.0"}],"secrets":[]}
